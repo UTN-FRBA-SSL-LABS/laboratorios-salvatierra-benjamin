@@ -1,0 +1,4 @@
+=== Tests de integracion ===  [OK]   total == 1300
+  [OK]   total_con_descuento == 1170
+
+--- 2/2 tests OK ---
